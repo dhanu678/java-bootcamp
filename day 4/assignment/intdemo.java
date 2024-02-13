@@ -1,4 +1,3 @@
-package day4.assignment;
 
  
  class intdemo {
