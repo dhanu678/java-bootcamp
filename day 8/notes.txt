@@ -1,0 +1,38 @@
+Date: 16 Feb 2024
+Time: 08:30 AM
+Day 8
+Course: CSE Bootcamp 
+
+
+Topic -
+    Loops - 
+        while ✅
+        do while ✅
+        for ✅
+
+    some keywords - 
+        break
+        continue
+        return ❌
+
+    Taking user input
+
+
+Loops - 
+    for loop - syntax
+        for(initialization/starter ; condition; increment/decremetn){
+            // code body
+        } 
+
+    while loop - syntax
+        while(condition){
+            // code body
+        }
+
+    do-while - syntax
+        do {
+            // code body
+        } while(condition);
+
+        it will execute the code first time even if the condition is false;
+        because we are providing the conition at the last;
