@@ -1,0 +1,13 @@
+1.What are the primitive data types in Java?
+2.Explain the difference between primitive data types and objects.
+3.Explain the difference between int and Integer in Java.
+4.What is the default value for the int data type in Java?
+5.Discuss the char data type in Java.
+6.What is the purpose of the boolean data type in Java?
+7.Discuss the differences between float and double in Java.
+8.What is the difference between == and .equals() when comparing String objects?
+->In Java, == compares the memory addresses of objects, while .equals() 
+compares the actual contents of the String objects. For String comparison, 
+it is generally recommended to use .equals().
+9 .What is the difference between break and continue statements in loops?
+10 .How can you declare and initialize a constant in Java?

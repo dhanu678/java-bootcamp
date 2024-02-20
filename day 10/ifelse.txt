@@ -1,0 +1,6 @@
+1. Explain the syntax of the if statement in Java.
+2.What is the purpose of the else statement?
+3.Can you have an else statement without an if statement?
+4.What is the difference between if-else and if-else if-else statements?
+5.How is the ternary operator (? :) used as a shorthand for an if-else statement?
+6 .What is nested if-else statements and its syntax?

@@ -1,0 +1,8 @@
+1 .Explain the types of loops in Java.
+2.Discuss the syntax of a for loop in Java.
+3.How does a while loop differ from a for loop?
+4.What is the purpose of the break statement in a loop?
+5.Explain the continue statement and its use in a loop.
+6.Discuss the difference between do-while and while loops.
+7.Explain the concept of nested loops.
+8.Discuss the importance of loop optimization.

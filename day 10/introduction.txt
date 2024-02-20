@@ -1,0 +1,14 @@
+1. What is Java?
+2. Why is Java a platform independent language?
+3. What are the differences between C++ and Java?
+4.What do you get in the Java download file?
+5.Explain JVM, JRE, and JDK.
+6.What are the Memory Allocations available in JavaJava?
+7. Can Java be said to be the complete object-oriented programming language
+8.What happens when the main() isn't declared as static?
+9.What is the difference between the program and the process?
+10 .What is variable ?
+11. What is standard for declaring class ?
+12 .difference between website and web application?
+13.Is java Interpreted or Compiler langauge ?
+14.  What is static data and dynamic data ?

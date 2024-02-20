@@ -1,0 +1,8 @@
+1 .What are operators in Java?
+2 .Discuss the arithmetic operators in Java.
+3 .What is the difference between the / and % operators?
+4 .Explain the assignment operators in Java.
+5 .Discuss the bitwise operators in Java.
+6.Explain the conditional (ternary) operator (? :) in Java.
+7.What is the purpose of the ++ and -- operators?
+8.Explain the concept of operator precedence in Java.
