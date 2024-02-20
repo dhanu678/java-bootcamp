@@ -1,9 +1,9 @@
-package day4.assignment;
+
 public class chardemo {
         public static void main (String[] args){
     
-            char a = '9';
-            char b = '8';
+            char a = '5';
+            char b = '9';
     
             System.out.println("conversion value in byte is :  "+(byte) (a+b));
             System.out.println("conversion value in short is :  "+(short) (a-b));
