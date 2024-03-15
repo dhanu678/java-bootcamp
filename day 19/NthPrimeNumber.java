@@ -10,9 +10,9 @@ class NthPrimeNumber {
     }
 
     static void nTh_prime_number(int num) {
-        int count = 1;
+        int count = 0;
         int i = 0;
-        while (num + 1 != count) {
+        while (num != count) {
             boolean isprime = isPrime(i);
             if (isprime)
                 count++;
