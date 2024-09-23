@@ -1,0 +1,144 @@
+OOPS-
+    from today whenever you create a folder, use the naming convenction/rules of the variables.
+
+package -
+    fancy name given to a folder
+    use of making a package - to differendiate between two classes having the same name
+
+    pattern-questions  ----- X
+    patternQuestion -------- right way
+    pattern_question ----------right way
+
+
+classes and objects - 
+    class -  it is logical entity
+    objects - physical entity/instance of a class
+
+primitive datatype - 
+    byte - 0
+    short - 0
+    int - 0
+    long - 0
+    float - 0.0
+    double - 0.0
+    boolean - false
+    char - ' ';
+
+Reference/complex datatype
+    array - null
+    string - null
+
+
+Constructor - It is used to assignvalues to our  instance variables and to instantiate our objects
+
+class components - what all things we can write inside our class
+
+variables
+    - instance/ non-static variables    
+    - static variable
+    - local variable
+
+methods/functions
+    - instance/non-static methods
+    - static method
+
+constructor
+    - default
+    - non-parameterized/ zero parameterized
+    - parameterized
+
+blocks
+    - instance block
+        - It will get executed as many times as we create the object of that class
+        - object mandatory
+    - static block
+        - It will get executed only once whenever the class is loaded
+        - class loading is mandatory
+
+    order of execution -
+        static block
+        instance block
+        constructor
+
+nested class/inner class
+
+
+OOPS pillars - 
+    encapsulation
+    inheritance
+    polymorphism
+    abstraction
+
+
+encapsulation - 
+technical - making the variables as private and access those varaiables using public getters and setters
+hiding the data, wrapping the data and method together.
+
+
+
+
+        Student s1 = new Student("Rohini", 10, 100.76f);
+        setter/constructor - to set the values of private variables
+
+inheritance - using the properties and methods from the parent class 
+
+types of inheritance - 
+    1. single
+    2. multilevel
+    3. Hierarchical
+    4. Multiple  - not possible in java
+    5. Hybrid    - not possible in java
+
+
+
+The first line of every default constructor is super call super();
+Polymorphism - 
+
+    poly - many
+    morph - forms
+    one object having multiple forms/behaviour
+
+    Dynamic memory dispatch - HW
+
+    method overloading -function/method hsving same name but different arguments/parameters is called as method overloading.
+                        Is performed always in the same class.
+                        Compile-time Polymorphism - At compile time the program will decide which method to run
+                        Static Polymorphism/Early-binding -  
+                        Also known as - Compile-time Polymorphism, Static Polymorphism, or Early binding
+                        Constructor overloading.
+                        operator overloading - '+'
+
+    method overriding - function having same name, same return type, same number of arguments;
+                        it is done in two different classes.
+                        Child class overrides the methods from the parent class
+                        We cannot perform overriding without inheritance.
+                        It is also called as Runtime polymorphism/Dynamic polymorphism/Late binding.
+
+
+final keyword - 
+    - use it with variable : we cannot change the value of that varaiable. used to create constants
+    - use it with a method : we cannot override the method which is final in subclass (instance, static)
+    - use it with a class : we cannot extend that class which is final
+
+
+Abstraction - 
+    general - hiding functinality and showing you only the essential information
+    technically in java - hide the methods - just to declare the methods 
+
+    TO perform abstraction in java we have to make the class as abstract
+    Inside the abstract class we write abstract methods
+
+    We cannot create an object of abstract class.
+
+    To use that abstract methods we have to extends that class.
+    Once we extrnd the class it is the responsibility of that sub class/child class/derived class to override all the abstract method present inside my abstract class.
+
+    We can create abstract methods only in abstract class.
+
+    Abstract class can have both abstract method as well as concrete method 
+
+    Why do we cannot create a static abstract method?
+
+    Why do we use abstraction?
+
+    Abstract class do not provide 100% abstraction. Beacuse we write concreate methods also.
